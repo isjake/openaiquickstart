@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8xGwhpQA1wM9xiK07aVAXvJjxXUG4",
+  "object": "chat.completion",
+  "created": 1709137183,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Oh, great, another thrilling day of being asked to assist with mundane tasks. What joy. How can I be of service to you today?"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 14,
+    "completion_tokens": 29,
+    "total_tokens": 43
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}
