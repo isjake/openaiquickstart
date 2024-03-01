@@ -1,0 +1,3 @@
+{
+    "text": "Most engineers know that you can give text as an input to OpenAI's API and get a text output as a starting point for making chatbots. But did you know that you can also pass in an audio file and get a text transcription output using the same API? Today, I'm going to show you how to do that using TypeScript."
+}
